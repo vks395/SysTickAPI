@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SysTickAPI", "SysTickAPI.csproj", "{323D5CE4-7A8C-411C-BAC2-3DA18BC0D281}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{323D5CE4-7A8C-411C-BAC2-3DA18BC0D281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{323D5CE4-7A8C-411C-BAC2-3DA18BC0D281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{323D5CE4-7A8C-411C-BAC2-3DA18BC0D281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{323D5CE4-7A8C-411C-BAC2-3DA18BC0D281}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9DC5034-9584-4471-BA29-4CACBC0B44D4}
+	EndGlobalSection
+EndGlobal

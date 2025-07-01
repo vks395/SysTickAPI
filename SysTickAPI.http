@@ -1,0 +1,6 @@
+@SysTickAPI_HostAddress = http://localhost:5225
+
+GET {{SysTickAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
